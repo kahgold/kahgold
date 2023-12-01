@@ -1,14 +1,15 @@
 ### 👋 Olá, aqui é a Katia Goldchleger!
 
-🛠️ Tenho habilidades em Python, SQL e R
+- 🛠️ Tenho habilidades em Python, SQL e R
 
-🌱 Proficiente em três idiomas: 🇧🇷 Portuguese (nativo), 🇬🇧 English, 🇷🇺 Russian
+- 🌱 Proficiente em três idiomas: 🇧🇷 Portuguese (nativo), 🇬🇧 English, 🇷🇺 Russian
 
-✨ Apaixonada por CrossFit e entusiasta de atividades físicas 💪
+- ✨ Apaixonada por CrossFit e entusiasta de atividades físicas 💪
 
-💻 Explore meus projetos no GitHub - tem muito conteúdo interessante por aqui! 🚀
+- 💻 Explore meus projetos no GitHub - tem muito conteúdo interessante por aqui! 🚀
 
-🏠 Sinta-se em casa e à vontade para entrar em contato! 📫 kahgoldchleger0897@gmail.com
+- 🏠 Sinta-se em casa e à vontade para entrar em contato! 📫 kahgoldchleger0897@gmail.com
+
 <!--
 **kahgold/kahgold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

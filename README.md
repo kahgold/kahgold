@@ -2,7 +2,7 @@
 
 - 🛠️ Tenho habilidades em Python, SQL e R
 
-- 🌱 Proficiente em três idiomas: 🇧🇷 Portuguese (nativo), 🇬🇧 Inglês
+- 🌱 Proficiente em dois idiomas: 🇧🇷 Portuguese (nativo), 🇬🇧 Inglês
 
 - ✨ Apaixonada por CrossFit e entusiasta de atividades físicas 💪
 

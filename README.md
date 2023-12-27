@@ -10,8 +10,6 @@
 
 - ✨ Apaixonada por CrossFit e entusiasta de atividades físicas 💪
 
-- 🏠 Sinta-se em casa e à vontade para entrar em contato! 📫 kahgoldchleger0897@gmail.com
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/katia-goldchleger-93b724232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme sitton de carvalho" height="30" width="40" /></a>
@@ -24,11 +22,18 @@
 <h3>Estatísticas e linguagens mais usadas:</h3>
 <br>
 
-![Katia Goldchleger GitHub stats](https://github-readme-stats.vercel.app/api?username=kahgold&show_icons=true&theme=tokyonight)
+![Katia Goldchleger GitHub stats](https://github-readme-stats.vercel.app/api?username=kahgold&show_icons=true&theme=cobalt)
 
 <br>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahgold&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
+<h2>Links de contatos</h2>
+<div style=>
+<a href="https://www.linkedin.com/in/katia-goldchleger-93b724232/"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://discord.com/users/344918178679357441"><img  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://github.com/kahgold"><img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.instagram.com/ericky_dias/"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 </div>

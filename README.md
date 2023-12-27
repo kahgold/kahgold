@@ -24,6 +24,7 @@
 <br>
 
 ![Katia Goldchleger GitHub stats](https://github-readme-stats.vercel.app/api?username=kahgold&show_icons=true&theme=tokyonight)
+
 <br>
 <br>
 

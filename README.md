@@ -2,7 +2,7 @@
 
 - 💻 Explore meus projetos no [GitHub](https://github.com/Gui-Sitton?tab=repositories)
 
-- 💬 Pergunte-me sobre **Python, Data Analysis, Machine Learning, SQL**
+- 💬 Pergunte-me sobre **Python, Data Analysis, SQL**
 
 - 📄 Conheça minhas experiências [Linkedin](www.linkedin.com/in/guilhermesitton)
 

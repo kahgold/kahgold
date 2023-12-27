@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<div>
+<div align="center">
 <br>
 
 ![Katia Goldchleger GitHub stats](https://github-readme-stats.vercel.app/api?username=kahgold&show_icons=true&theme=tokyonight)
@@ -29,30 +29,5 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahgold&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<h2> Tecnologias que eu uso no meu dia a dia e que estou aprendendo</h2>
-
-<div style="display: inline_block"><br>
-  <img alt="Js" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="HTML" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="git" height="50" src="https://img.icons8.com/color/48/git.png">
-  <img alt="react" height="50" src="https://img.icons8.com/plasticine/100/react.png">
-  <img alt="sass" height="50" src="https://img.icons8.com/color/48/sass.png">
-  <img alt="node.js" height="50" src="https://img.icons8.com/fluency/48/node-js.png">
-  <img alt="ux e ui" height="50" src="https://img.icons8.com/color/48/content.png">       
-</div>
-
-<div>
-<br>
-
-![ErickyDias GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-erickydias&show_icons=true&theme=tokyonight)
-<br>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-erickydias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>

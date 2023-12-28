@@ -11,9 +11,9 @@
 - ✨ Apaixonada por CrossFit e entusiasta de atividades físicas 💪
 
 <h3 align="left">Linguagens de programação e ferramentas:</h3>
-<p align="left">  </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="left">  </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+<a href="https://python-graph-gallery.com/" target="_blank" rel="noreferrer"> <img src="" alt="python graph gallery" width="40" height="40"/> </a> </p>
 
 <h2>Links de contatos</h2>
 <div style=>

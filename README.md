@@ -4,7 +4,7 @@
 
 - 💬 Pergunte-me sobre **Python, Data Analysis, SQL**
 
-- 📄 Conheça minhas experiências [Linkedin](www.linkedin.com/in/guilhermesitton) e [Flowcv](https://flowcv.me/katiagoldchleger)
+- 📄 Conheça minhas experiências [Linkedin](https://www.linkedin.com/in/katia-goldchleger-93b724232/) e [Flowcv](https://flowcv.me/katiagoldchleger)
 
 - 🌱 Proficiente em dois idiomas: 🇧🇷 Português (nativo), 🇬🇧 Inglês
 

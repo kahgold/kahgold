@@ -13,7 +13,7 @@
 <h3 align="left">Linguagens de programação e ferramentas:</h3>
 <p align="left">  </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://python-graph-gallery.com/" target="_blank" rel="noreferrer"> <img src="" alt="python graph gallery" width="40" height="40"/> </a> 
+<a href="https://python-graph-gallery.com/" target="_blank" rel="noreferrer"> <img src="https://icons8.com.br/icon/102554/gr%C3%A1fico" alt="python graph gallery" width="40" height="40"/> </a> 
 <a href="https://www.python.org/doc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahgold)](https://github.com/anuraghazra/github-readme-stats)

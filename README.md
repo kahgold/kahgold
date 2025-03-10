@@ -1,4 +1,4 @@
-no<h1 align="center"> Olá 👋, sou Katia Goldchleger!</h1>
+<h1 align="center"> Olá 👋, sou Katia Goldchleger!</h1>
 
 - 💻 Explore meus projetos no [GitHub](https://github.com/Gui-Sitton?tab=repositories)
 
